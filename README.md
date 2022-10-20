@@ -1,4 +1,4 @@
-##Neural Networks: Zero to Hero (A Course by Andrej Karpathy)
+## Neural Networks: Zero to Hero (A Course by Andrej Karpathy)
 
 ---
 
