@@ -1,7 +1,5 @@
 ## Neural Networks: Zero to Hero (A Course by Andrej Karpathy)
 
----
-
 A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code 
 and train neural networks. 
 
