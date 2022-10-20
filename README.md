@@ -1,5 +1,4 @@
-# nn-zero-to-hero
-Neural Networks: Zero to Hero (A Course by Andrej Karpathy)
+##Neural Networks: Zero to Hero (A Course by Andrej Karpathy)
 
 ---
 
@@ -10,7 +9,8 @@ and train neural networks.
 
 **Lecture 1: The spelled-out intro to neural networks and backpropagation: building micrograd**
 
-Backpropagation and training of neural networks. Assumes basic knowledge of Python and a vague recollection of calculus from high school.
+Backpropagation and training of neural networks. A base Value class is created containing basic operations like addition, multiplication and so on.
+The Value class is then used in the Neuron class, the Layer and the MLP( Multi Layer Perceptron ) class. Everything is done manually the calculus for the backward pass, the gradients for each operation. Assumes basic knowledge of Python and a vague recollection of calculus from high school.
 
 - [YouTube video lecture](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [Jupyter notebook files](micrograd)
@@ -24,3 +24,4 @@ evaluating neural networks and (2) the overall framework of language modeling th
 (e.g. the negative log likelihood for classification).
 
 - [YouTube video lecture](https://www.youtube.com/watch?v=PaCmpygFfXo)
+- [Jupyter notebook files](lectures/makemore/makemore_part1_bigrams.ipynb)
