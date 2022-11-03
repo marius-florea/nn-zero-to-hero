@@ -27,6 +27,7 @@ evaluating neural networks and (2) the overall framework of language modeling th
 ---
 
 **Lecture 3:  Building makemore Part 2: MLP**
+
 Implement a multilayer perceptron (MLP) character-level language model. In this lecture we also introduce many basics of machine learning (e.g. model training, learning rate tuning, hyperparameters, evaluation, train/dev/test splits, under/overfitting, etc.).
 - [YouTube video lecture](https://www.youtube.com/watch?v=TCH_1BHY58I)
 - [Jupyter notebook files](/makemore/makemore_part2_mlp.ipynb)
