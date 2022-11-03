@@ -22,11 +22,11 @@ evaluating neural networks and (2) the overall framework of language modeling th
 (e.g. the negative log likelihood for classification).
 
 - [YouTube video lecture](https://www.youtube.com/watch?v=PaCmpygFfXo)
-- [Jupyter notebook files](lectures/makemore/makemore_part1_bigrams.ipynb)
+- [Jupyter notebook files](/makemore/makemore_part1_bigrams.ipynb)
 
 ---
 
 ** Lecture 3:  Building makemore Part 2: MLP **
 We implement a multilayer perceptron (MLP) character-level language model. In this video we also introduce many basics of machine learning (e.g. model training, learning rate tuning, hyperparameters, evaluation, train/dev/test splits, under/overfitting, etc.).
 - [YouTube video lecture](https://www.youtube.com/watch?v=TCH_1BHY58I)
-- [Jupyter notebook files](lectures/makemore/makemore_part1_bigrams.ipynb)
+- [Jupyter notebook files](/makemore/makemore_part2_mlp.ipynb)
