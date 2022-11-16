@@ -28,6 +28,17 @@ evaluating neural networks and (2) the overall framework of language modeling th
 
 **Lecture 3:  Building makemore Part 2: MLP**
 
-Implement a multilayer perceptron (MLP) character-level language model. In this lecture we also introduce many basics of machine learning (e.g. model training, learning rate tuning, hyperparameters, evaluation, train/dev/test splits, under/overfitting, etc.).
+Implemented a multilayer perceptron (MLP) character-level language model. In this lecture we also introduce many basics of machine learning (e.g. model training, learning rate tuning, hyperparameters, evaluation, train/dev/test splits, under/overfitting, etc.).
 - [YouTube video lecture](https://www.youtube.com/watch?v=TCH_1BHY58I)
 - [Jupyter notebook files](/makemore/makemore_part2_mlp.ipynb)
+
+---
+
+**Lecture 4: Building makemore Part 3: Activations & Gradients, BatchNorm**
+
+Diving into some of the internals of MLPs with multiple layers and going over the statistics of the forward pass activations, backward pass gradients, and some of the pitfalls when they are improperly scaled. Using visualization tools to understand the health of the deep neural network.
+Introducing Batch Normalization which makes the training much easier.
+- [YouTube video lecture](https://www.youtube.com/watch?v=P6sfmUTpUmc)
+- [Jupyter notebook files](/makemore/makemore_part3_Activations_Gradients_BatchNorm.ipynb) & 
+  (/makemore/makemore_part3_Activations_Gradients_BatchNorm_with_classes.ipynb)
+
