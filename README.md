@@ -49,5 +49,5 @@ Introducing Batch Normalization which makes the training much easier.
 **Building makemore Part 5: Building a WaveNet
 
 The 2-layer MLP from the previous video will be modified, we make it deeper with a tree-like structure, arriving at a convolutional neural network architecture similar to the WaveNet (2016) from DeepMind.
-- [YouTube video lecture]  (https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
-- [Jupyter notebook files] (/makemore/makemore_part5.ipynb)
+- [YouTube video lecture](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
+- [Jupyter notebook files](/makemore/makemore_part5.ipynb)
