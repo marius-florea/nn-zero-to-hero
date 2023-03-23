@@ -51,3 +51,17 @@ Introducing Batch Normalization which makes the training much easier.
 The 2-layer MLP from the previous video will be modified, we make it deeper with a tree-like structure, arriving at a convolutional neural network architecture similar to the WaveNet (2016) from DeepMind.
 - [YouTube video lecture](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
 - [Jupyter notebook files](/makemore/makemore_part5.ipynb)
+
+---
+
+**NanoGpt Lecture**
+
+Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3.
+
+- [YouTube video lecture] (https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [NanoGpt directory] (/NanoGpt)
+
+
+
+
+
