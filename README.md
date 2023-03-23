@@ -57,9 +57,10 @@ The 2-layer MLP from the previous video will be modified, we make it deeper with
 **NanoGpt Lecture**
 
 Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3.
+There are a lot of comments in the files so check them for additional info.
 
 - [YouTube video lecture] (https://www.youtube.com/watch?v=kCc8FmEb1nY)
-- [NanoGpt directory] (/NanoGpt)
+- [NanoGpt directory] (/NanoGpt/)
 
 
 
