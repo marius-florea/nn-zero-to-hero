@@ -2,3 +2,7 @@
 makemore/.DS_Store
 .DS_Store
 makemore/array_tests.ipynb
+venv/
+.ipynb_checkpoints/
+.idea/
+__pycache__/
